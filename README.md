@@ -12,3 +12,7 @@ Nintendo提供了多种尺寸的壁纸，本项目仅收集最大尺寸，可以
 [lalalaLeo](https://github.com/lalalaleo)
 
 [KindredCain](https://github.com/KindredCain)
+
+---
+
+如果本仓库涉及侵权请联系删除
